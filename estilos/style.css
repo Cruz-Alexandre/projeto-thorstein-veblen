@@ -70,7 +70,7 @@ nav {
     background-color: var(--cor0);
     padding: 10px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.192);
-    text-align: right;
+    text-align: left;
 }
 
 nav > a {
@@ -78,7 +78,6 @@ nav > a {
     padding: 10px;
     font-size: 1.3em;
     font-weight: bold;
-    
 }
 
 nav > a:hover {
