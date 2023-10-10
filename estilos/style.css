@@ -60,11 +60,17 @@ header p {
     text-align: center;
 }
 
+p#ed {
+    padding: 0px;
+    margin: 5px;
+    font-size: 0.8em;
+}
+
 nav {
     background-color: var(--cor0);
     padding: 10px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.192);
-    
+    text-align: right;
 }
 
 nav > a {
